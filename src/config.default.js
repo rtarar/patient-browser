@@ -4,7 +4,7 @@ export default {
 
         // HSPC
         // url: "https://sb-fhir-dstu2.smarthealthit.org/api/smartdstu2/open",
-        url: "https://sb-fhir-stu3.smarthealthit.org/smartstu3/open",
+        url: "http://eip-cds.experimental.aimsplatform.com/hapi-fhir/baseDstu3",
 
         // HAPI
         // url: "http://fhirtest.uhn.ca/baseDstu3",
